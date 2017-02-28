@@ -4,7 +4,8 @@ Simple Android Web Socket Client that register units to the server. I tried to i
 How to Test:
 Change between the two gradle flavors presented in the application build variants
 
-(NormalMode) -> Simple app test without web socket integration/n
+(NormalMode) -> Simple app test without web socket integration
+
 (WebSocketMode) -> Web socket integration activated, server project needed to make this mode work.
 
 Pending Stuff:
